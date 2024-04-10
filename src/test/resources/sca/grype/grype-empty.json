@@ -1,0 +1,102 @@
+{
+ "matches": [],
+ "source": {
+  "type": "directory",
+  "target": "io.prometheus.jmx__jmx_prometheus_httpserver__0.17.0"
+ },
+ "distro": {
+  "name": "",
+  "version": "",
+  "idLike": null
+ },
+ "descriptor": {
+  "name": "grype",
+  "version": "0.53.1",
+  "configuration": {
+   "configPath": "",
+   "output": "json",
+   "file": "",
+   "distro": "",
+   "add-cpes-if-none": false,
+   "output-template-file": "",
+   "quiet": false,
+   "check-for-app-update": false,
+   "only-fixed": false,
+   "only-notfixed": false,
+   "platform": "",
+   "search": {
+    "scope": "Squashed",
+    "unindexed-archives": false,
+    "indexed-archives": true
+   },
+   "ignore": null,
+   "exclude": [],
+   "db": {
+    "cache-dir": "/home/aljordan/.cache/grype/db",
+    "update-url": "https://toolbox-data.anchore.io/grype/databases/listing.json",
+    "ca-cert": "",
+    "auto-update": false,
+    "validate-by-hash-on-start": false,
+    "validate-age": true,
+    "max-allowed-built-age": 432000000000000
+   },
+   "externalSources": {
+    "enable": false,
+    "maven": {
+     "searchUpstreamBySha1": true,
+     "baseUrl": "https://search.maven.org/solrsearch/select"
+    }
+   },
+   "match": {
+    "java": {
+     "using-cpes": true
+    },
+    "dotnet": {
+     "using-cpes": true
+    },
+    "golang": {
+     "using-cpes": true
+    },
+    "javascript": {
+     "using-cpes": true
+    },
+    "python": {
+     "using-cpes": true
+    },
+    "ruby": {
+     "using-cpes": true
+    },
+    "stock": {
+     "using-cpes": true
+    }
+   },
+   "dev": {
+    "profile-cpu": false,
+    "profile-mem": false
+   },
+   "fail-on-severity": "",
+   "registry": {
+    "insecure-skip-tls-verify": false,
+    "insecure-use-http": false,
+    "auth": []
+   },
+   "log": {
+    "structured": false,
+    "level": "",
+    "file": ""
+   },
+   "attestation": {
+    "public-key": "",
+    "skip-verification": false
+   },
+   "show-suppressed": false
+  },
+  "db": {
+   "built": "2023-04-25T01:29:59Z",
+   "schemaVersion": 5,
+   "location": "/home/aljordan/.cache/grype/db/5",
+   "checksum": "sha256:9542d7559887ee3d4fdc7afb9553202ae15847b82f51f6377dbad229e73ff5d8",
+   "error": null
+  }
+ }
+}

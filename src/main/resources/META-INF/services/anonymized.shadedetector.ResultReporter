@@ -1,0 +1,3 @@
+anonymized.shadedetector.resultreporting.LogResultReporter
+anonymized.shadedetector.resultreporting.CSVDetailedResultReporter
+anonymized.shadedetector.resultreporting.CSVSummaryResultReporter

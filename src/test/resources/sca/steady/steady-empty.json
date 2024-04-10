@@ -1,0 +1,27 @@
+{
+	"vulasReport": {
+		"generatedAt": "06.05.2023 07:41 +1200",
+		"generatedFor": {
+			"space": "$space.getSpaceToken()",
+			"groupId": "com.javatpoint.application1",
+			"artifactId": "my-app",
+			"version": "1"
+		},
+		"isAggregated": false,
+	
+		"aggregatedModules": [],
+	
+		"configuration": [
+			{ "name": "exceptionThreshold",
+			  "value": "dependsOn" },
+			{ "name": "exemptScopes",
+			  "value": "TEST, PROVIDED" },
+			{ "name": "exemptBugs",
+			  "value": "" }
+		],
+	
+		"vulnerabilities": [
+		
+		]
+	}
+}

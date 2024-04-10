@@ -1,0 +1,198 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 366,
+    "params": {
+      "q": "c:IterableSortedMap",
+      "hl.snippets": "3",
+      "core": "",
+      "hl": "true",
+      "indent": "off",
+      "fl": "id,g,a,v,p,ec,timestamp,tags",
+      "start": "11",
+      "hl.fl": "fch",
+      "sort": "score desc,timestamp desc,g asc,a asc,v desc",
+      "rows": "5",
+      "wt": "json",
+      "version": "2.2"
+    }
+  },
+  "response": {
+    "numFound": 10714,
+    "start": 11,
+    "docs": [
+      {
+        "id": "org.ops4j.pax.web:pax-web-spi:7.3.22",
+        "g": "org.ops4j.pax.web",
+        "a": "pax-web-spi",
+        "v": "7.3.22",
+        "p": "bundle",
+        "timestamp": 1637213010000,
+        "ec": [
+          "-sources.jar",
+          "-javadoc.jar",
+          "-test-sources.jar",
+          ".jar",
+          ".pom"
+        ],
+        "tags": [
+          "information",
+          "ops4j",
+          "http",
+          "ayaz",
+          "detailed",
+          "service",
+          "osgi",
+          "jetty",
+          "wiki",
+          "confluence",
+          "based",
+          "found"
+        ]
+      },
+      {
+        "id": "org.ops4j.pax.web:pax-web-spi:7.3.21",
+        "g": "org.ops4j.pax.web",
+        "a": "pax-web-spi",
+        "v": "7.3.21",
+        "p": "bundle",
+        "timestamp": 1636713144000,
+        "ec": [
+          "-javadoc.jar",
+          "-sources.jar",
+          "-test-sources.jar",
+          ".jar",
+          ".pom"
+        ],
+        "tags": [
+          "information",
+          "ops4j",
+          "http",
+          "ayaz",
+          "detailed",
+          "service",
+          "osgi",
+          "jetty",
+          "wiki",
+          "confluence",
+          "based",
+          "found"
+        ]
+      },
+      {
+        "id": "org.ops4j.pax.web:pax-web-spi:7.3.20",
+        "g": "org.ops4j.pax.web",
+        "a": "pax-web-spi",
+        "v": "7.3.20",
+        "p": "bundle",
+        "timestamp": 1635961402000,
+        "ec": [
+          "-javadoc.jar",
+          "-sources.jar",
+          "-test-sources.jar",
+          ".jar",
+          ".pom"
+        ],
+        "tags": [
+          "information",
+          "ops4j",
+          "http",
+          "ayaz",
+          "detailed",
+          "service",
+          "osgi",
+          "jetty",
+          "wiki",
+          "confluence",
+          "based",
+          "found"
+        ]
+      },
+      {
+        "id": "org.ops4j.pax.web:pax-web-spi:7.4.3",
+        "g": "org.ops4j.pax.web",
+        "a": "pax-web-spi",
+        "v": "7.4.3",
+        "p": "bundle",
+        "timestamp": 1635245487000,
+        "ec": [
+          "-sources.jar",
+          "-javadoc.jar",
+          "-test-sources.jar",
+          ".jar",
+          ".pom"
+        ],
+        "tags": [
+          "information",
+          "ops4j",
+          "http",
+          "ayaz",
+          "detailed",
+          "service",
+          "osgi",
+          "jetty",
+          "wiki",
+          "confluence",
+          "based",
+          "found"
+        ]
+      },
+      {
+        "id": "org.ops4j.pax.web:pax-web-spi:7.4.2",
+        "g": "org.ops4j.pax.web",
+        "a": "pax-web-spi",
+        "v": "7.4.2",
+        "p": "bundle",
+        "timestamp": 1635142550000,
+        "ec": [
+          "-javadoc.jar",
+          "-sources.jar",
+          "-test-sources.jar",
+          ".jar",
+          ".pom"
+        ],
+        "tags": [
+          "information",
+          "ops4j",
+          "http",
+          "ayaz",
+          "detailed",
+          "service",
+          "osgi",
+          "jetty",
+          "wiki",
+          "confluence",
+          "based",
+          "found"
+        ]
+      }
+    ]
+  },
+  "highlighting": {
+    "org.ops4j.pax.web:pax-web-spi:7.3.22": {
+      "fch": [
+        "org.apache.commons.collections4.<em>IterableSortedMap</em>"
+      ]
+    },
+    "org.ops4j.pax.web:pax-web-spi:7.3.21": {
+      "fch": [
+        "org.apache.commons.collections4.<em>IterableSortedMap</em>"
+      ]
+    },
+    "org.ops4j.pax.web:pax-web-spi:7.3.20": {
+      "fch": [
+        "org.apache.commons.collections4.<em>IterableSortedMap</em>"
+      ]
+    },
+    "org.ops4j.pax.web:pax-web-spi:7.4.3": {
+      "fch": [
+        "org.apache.commons.collections4.<em>IterableSortedMap</em>"
+      ]
+    },
+    "org.ops4j.pax.web:pax-web-spi:7.4.2": {
+      "fch": [
+        "org.apache.commons.collections4.<em>IterableSortedMap</em>"
+      ]
+    }
+  }
+}
